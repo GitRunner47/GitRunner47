@@ -92,7 +92,7 @@ A full-stack, database-driven movie discovery application.
 - Integrated the Streaming Availability API using PHP cURL.
 - Cached API responses in MySQL.
 
-🔗 [View Repository](YOUR_MOVIE_SAVIOR_REPOSITORY_URL)
+🔗 [View Repository](https://github.com/GitRunner47/Movie-Savior)
 
 ### 🛡️ NCAE Cyber Competition
 DNS Specialization | March 2026
