@@ -1,17 +1,3 @@
-<!--
-**GitRunner47/GitRunner47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # Hi, I'm Krish Viradia 👋
 
 ### Computer Science Student @ NJIT | Software Development | Cybersecurity | IT Infrastructure
@@ -34,16 +20,15 @@ Currently pursuing my B.S. in Computer Science
 - 🎓 Computer Science undergraduate at NJIT
 - 💻 Interested in Full-Stack and Backend Development
 - 🔐 Interested in Cybersecurity and Application Security
-- 🐧 Experienced with Linux administration and networking
+- 🐧 Hands-on experience with Linux, DNS, and Apache through coursework and competition
 - 🏆 Placed 5th out of 13 teams in a regional NCAE Cyber Competition
-- 🌱 Continuously learning and building practical projects
-- 🎯 Seeking Software Engineering, IT, and Cybersecurity internships
+- 🎯 Seeking Summer 2027 software engineering, IT, and cybersecurity internships
 
 ---
 
 ## 🛠️ Technical Skills
 
-### Programming Languages
+### Languages (coursework and projects)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -72,9 +57,8 @@ Currently pursuing my B.S. in Computer Science
 
 ### Tools
 - Git and GitHub
-- VS Code and Cursor
+- VS Code
 - Proxmox
-- Apache
 
 ---
 
@@ -122,9 +106,4 @@ Relevant Coursework:
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/krish-viradia/
-- 🐙 GitHub: https://github.com/GitRunner47
-
----
-
-*Always learning, building, and improving.*
+- 💼 [LinkedIn](https://www.linkedin.com/in/krish-viradia/)
