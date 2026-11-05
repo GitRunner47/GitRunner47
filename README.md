@@ -124,7 +124,6 @@ Relevant Coursework:
 
 - 💼 LinkedIn: https://www.linkedin.com/in/krish-viradia/
 - 🐙 GitHub: https://github.com/GitRunner47
-- 📧 Email: kricollege11@gmail.com
 
 ---
 
