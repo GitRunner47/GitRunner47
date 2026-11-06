@@ -74,7 +74,7 @@ A full-stack, database-driven movie discovery application.
 - Built authentication and role-based authorization.
 - Implemented server-side validation and CSRF protection.
 - Integrated the Streaming Availability API using PHP cURL.
-- Cached API responses in MySQL.
+- Built an admin page to import API data into MySQL, adding new movies and updating existing ones.
 
 🔗 [View Repository](https://github.com/GitRunner47/Movie-Savior)
 
